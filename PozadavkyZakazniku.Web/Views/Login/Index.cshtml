@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+
+@using (Html.BeginForm("Login", "Login", FormMethod.Post, new { id = "loginForm" }))
+{
+    <div>
+        <h2>Přihlašeni</h2>
+        <font color="red">@ViewBag.Chyba</font>
+        Jméno: <input name="LoginName" class="form-control" value="" />
+        Heslo: <input name="LoginPassword" class="form-control" type="password" value="" />
+        <input type="submit" class="btn btn-primary" value="Přihlásit" />
+    </div>
+
+}
+
+

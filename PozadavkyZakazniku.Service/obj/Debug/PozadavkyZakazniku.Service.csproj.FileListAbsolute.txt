@@ -26,3 +26,17 @@ C:\Users\jana\documents\visual studio 2017\Projects\PozadavkyZakazniku\Pozadavky
 C:\Users\jana\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Service\obj\Debug\PozadavkyZakazniku.Service.csprojResolveAssemblyReference.cache
 C:\Users\jana\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Service\obj\Debug\PozadavkyZakazniku.Service.dll
 C:\Users\jana\documents\visual studio 2017\Projects\PozadavkyZakazniku\PozadavkyZakazniku.Service\obj\Debug\PozadavkyZakazniku.Service.pdb
+C:\Users\lukas\Documents\Visual Studio 2017\Projects\PozadavkyZakazniku2\PozadavkyZakazniku.Service\bin\Debug\PozadavkyZakazniku.Service.dll
+C:\Users\lukas\Documents\Visual Studio 2017\Projects\PozadavkyZakazniku2\PozadavkyZakazniku.Service\bin\Debug\PozadavkyZakazniku.Service.pdb
+C:\Users\lukas\Documents\Visual Studio 2017\Projects\PozadavkyZakazniku2\PozadavkyZakazniku.Service\bin\Debug\PozadavkyZakazniku.Model.dll
+C:\Users\lukas\Documents\Visual Studio 2017\Projects\PozadavkyZakazniku2\PozadavkyZakazniku.Service\bin\Debug\PozadavkyZakazniku.Repository.dll
+C:\Users\lukas\Documents\Visual Studio 2017\Projects\PozadavkyZakazniku2\PozadavkyZakazniku.Service\bin\Debug\EntityFramework.dll
+C:\Users\lukas\Documents\Visual Studio 2017\Projects\PozadavkyZakazniku2\PozadavkyZakazniku.Service\bin\Debug\AutoMapper.dll
+C:\Users\lukas\Documents\Visual Studio 2017\Projects\PozadavkyZakazniku2\PozadavkyZakazniku.Service\bin\Debug\PozadavkyZakazniku.Model.pdb
+C:\Users\lukas\Documents\Visual Studio 2017\Projects\PozadavkyZakazniku2\PozadavkyZakazniku.Service\bin\Debug\PozadavkyZakazniku.Repository.pdb
+C:\Users\lukas\Documents\Visual Studio 2017\Projects\PozadavkyZakazniku2\PozadavkyZakazniku.Service\bin\Debug\PozadavkyZakazniku.Repository.dll.config
+C:\Users\lukas\Documents\Visual Studio 2017\Projects\PozadavkyZakazniku2\PozadavkyZakazniku.Service\bin\Debug\EntityFramework.xml
+C:\Users\lukas\Documents\Visual Studio 2017\Projects\PozadavkyZakazniku2\PozadavkyZakazniku.Service\bin\Debug\AutoMapper.xml
+C:\Users\lukas\Documents\Visual Studio 2017\Projects\PozadavkyZakazniku2\PozadavkyZakazniku.Service\obj\Debug\PozadavkyZakazniku.Service.csprojResolveAssemblyReference.cache
+C:\Users\lukas\Documents\Visual Studio 2017\Projects\PozadavkyZakazniku2\PozadavkyZakazniku.Service\obj\Debug\PozadavkyZakazniku.Service.dll
+C:\Users\lukas\Documents\Visual Studio 2017\Projects\PozadavkyZakazniku2\PozadavkyZakazniku.Service\obj\Debug\PozadavkyZakazniku.Service.pdb

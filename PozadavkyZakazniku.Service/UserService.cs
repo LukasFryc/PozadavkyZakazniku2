@@ -15,10 +15,28 @@ namespace PozadavkyZakazniku.Service
     {
         readonly IUserRepository userRepository; 
         
+        
 
         public UserService(IUserRepository userRepository)
         {
             this.userRepository = userRepository;
+        }
+
+        public string Login(string username, string password)
+        {
+            string ticket = "";
+            UserModel user = userRepository.GetUser(username, password);
+            if (user != null)
+            {
+                ticket = Guid.NewGuid().ToString();
+            }
+
+            return ticket;
+        }
+
+        public UserModel GetUser(string userName)
+        {
+            return userRepository.GetUser(userName);
         }
 
         public UserModel GetUser(int ID)

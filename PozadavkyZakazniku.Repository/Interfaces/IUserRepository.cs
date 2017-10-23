@@ -10,5 +10,8 @@ namespace PozadavkyZakazniku.Repository.Interfaces
         UserModel GetUser(int ID);
         ICollection<UserModel> GetUsers();
         UserModel UpdateUser(UserModel user);
+
+        UserModel GetUser(string Jmeno, string Heslo);
+        UserModel GetUser(string userName);
     }
 }

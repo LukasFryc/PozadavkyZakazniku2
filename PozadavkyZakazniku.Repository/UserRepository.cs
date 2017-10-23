@@ -20,6 +20,23 @@ namespace PozadavkyZakazniku.Repository
 
         }
 
+        public UserModel GetUser(string userName)
+        {
+            using (DbRequest db = new DbRequest())
+            {
+                return Mapper.Map<UserModel>(db.Users.Where(u => u.LoginName == userName).Select(u => u).FirstOrDefault());
+            }
+        }
+
+        public UserModel GetUser(string Jmeno, string Heslo)
+        {
+            using (DbRequest db = new DbRequest())
+            {
+                return Mapper.Map<UserModel>(db.Users.Where(u => u.LoginName == Jmeno && u.LoginPassword == Heslo).Select(u => u).FirstOrDefault());
+            }
+
+        }
+
         public ICollection<UserModel> GetUsers()
         {
             using (DbRequest db = new DbRequest())

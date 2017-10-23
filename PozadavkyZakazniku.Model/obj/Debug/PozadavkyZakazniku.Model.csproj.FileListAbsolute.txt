@@ -8,3 +8,8 @@ C:\Users\jana\documents\visual studio 2017\Projects\PozadavkyZakazniku\Model\bin
 C:\Users\jana\documents\visual studio 2017\Projects\PozadavkyZakazniku\Model\obj\Debug\PozadavkyZakazniku.Model.csprojResolveAssemblyReference.cache
 C:\Users\jana\documents\visual studio 2017\Projects\PozadavkyZakazniku\Model\obj\Debug\PozadavkyZakazniku.Model.dll
 C:\Users\jana\documents\visual studio 2017\Projects\PozadavkyZakazniku\Model\obj\Debug\PozadavkyZakazniku.Model.pdb
+C:\Users\lukas\Documents\Visual Studio 2017\Projects\PozadavkyZakazniku2\PozadavkyZakazniku.Model\bin\Debug\PozadavkyZakazniku.Model.dll
+C:\Users\lukas\Documents\Visual Studio 2017\Projects\PozadavkyZakazniku2\PozadavkyZakazniku.Model\bin\Debug\PozadavkyZakazniku.Model.pdb
+C:\Users\lukas\Documents\Visual Studio 2017\Projects\PozadavkyZakazniku2\PozadavkyZakazniku.Model\obj\Debug\PozadavkyZakazniku.Model.csprojResolveAssemblyReference.cache
+C:\Users\lukas\Documents\Visual Studio 2017\Projects\PozadavkyZakazniku2\PozadavkyZakazniku.Model\obj\Debug\PozadavkyZakazniku.Model.dll
+C:\Users\lukas\Documents\Visual Studio 2017\Projects\PozadavkyZakazniku2\PozadavkyZakazniku.Model\obj\Debug\PozadavkyZakazniku.Model.pdb

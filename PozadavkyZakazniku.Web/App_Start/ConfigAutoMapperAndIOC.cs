@@ -11,7 +11,7 @@ using PozadavkyZakazniku.Service.Interfaces;
 using PozadavkyZakazniku.Repository;
 using PozadavkyZakazniku.Repository.Interfaces;
 using System.Web.Mvc;
-
+using PozadavkyZakazniku.Web.Filters;
 
 namespace PozadavkyZakazniku.Web.App_Start
 {
@@ -60,6 +60,8 @@ namespace PozadavkyZakazniku.Web.App_Start
             // Module
             containerBuilder.Register(r => new ModuleService(r.Resolve<IModuleRepository>())).AsImplementedInterfaces().InstancePerLifetimeScope();
 
+            // registrace autentizacni tridy
+            containerBuilder.Register(r => new GCAuthentication(r.Resolve<IUserService>())).AsAuthenticationFilterFor<Controller>().InstancePerLifetimeScope();
 
             // prekopirovat do projektu. Je potreba pro MVC
             containerBuilder.RegisterControllers(typeof(MvcApplication).Assembly);
